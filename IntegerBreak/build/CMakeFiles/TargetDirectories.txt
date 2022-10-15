@@ -1,0 +1,3 @@
+/home/guojiawei/Desktop/IntegerBreak/build/CMakeFiles/mian_cmake.dir
+/home/guojiawei/Desktop/IntegerBreak/build/CMakeFiles/edit_cache.dir
+/home/guojiawei/Desktop/IntegerBreak/build/CMakeFiles/rebuild_cache.dir
