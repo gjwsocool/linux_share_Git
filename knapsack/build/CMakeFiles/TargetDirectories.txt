@@ -1,0 +1,3 @@
+/home/guojiawei/Desktop/knapsack/build/CMakeFiles/cmake_exe.dir
+/home/guojiawei/Desktop/knapsack/build/CMakeFiles/edit_cache.dir
+/home/guojiawei/Desktop/knapsack/build/CMakeFiles/rebuild_cache.dir
