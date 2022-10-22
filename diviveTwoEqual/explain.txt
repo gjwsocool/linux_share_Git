@@ -1,0 +1,4 @@
+partition01.cpp-----递归，从[index,n-1]选择
+partition02.cpp-----递归，从[0，index]选择
+jiyihua.cpp-----递归+记忆化搜索
+dynamic.cpp-----动态规划
